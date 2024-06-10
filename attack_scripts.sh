@@ -1,5 +1,4 @@
 #!/bin/bash
-
 # Function to display the menu
 show_menu() {
     echo "Seleccione el tipo de ataque a realizar:"
